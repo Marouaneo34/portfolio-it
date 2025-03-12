@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio IT ! Ici, je documente mon apprentissage en Administ
 - 📂 `labs/` → Mes tests et exercices techniques
 - 📂 `notes/` → Mes fiches de révision et résumés
 
-## 🔧 Technologies utilisées
+## 🔧 Technologies utilisées (à venir)
 - 🌐 Réseaux : Cisco Packet Tracer, Wireshark
 - 🐧 Linux : Ubuntu, Debian, Bash Scripting
 - 🏢 Windows Server : Active Directory, GPO
